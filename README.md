@@ -34,6 +34,7 @@ This repository documents my hands-on learning and practical labs in IT support.
 
 - Windows 10/11
 - Windows Server
+- Oracle VirtualBox
 - Active Directory Domain Services
 - Create Active Directory lab documentation
 - Command Prompt and PowerShell
