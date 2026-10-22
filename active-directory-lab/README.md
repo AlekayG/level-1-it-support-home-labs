@@ -8,7 +8,7 @@ Build practical experience with Active Directory Domain Services and common user
 ## Lab Environment
 
 - Host operating system: To be confirmed
-- Virtualisation software: VMware Workstation Pro
+- Virtualisation software: Oracle VirtualBox
 - Server operating system: To be selected
 - Client operating system: To be selected
 - Domain name: To be configured
